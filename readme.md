@@ -23,6 +23,18 @@
 
 ![加群](./img/contact-me.png)
 
+## 快速体验
+
+下载`docker-compose.yaml`
+
+```
+wget https://raw.githubusercontent.com/jimoos-cn/jimo-form/main/install/docker-compose.yaml
+```
+执行compose命令
+
+```
+docker compose up -d
+```
 ## 界面预览
 
 ![界面预览](./img/feature_intro.png)
@@ -37,4 +49,4 @@
 <a href="https://www.xiaohuodui.cn?utm_source=os">
 <image src="./img/logoyuan.png" width="32">
 小火堆科技 - 杭城专业的软件开发服务商</a> <br> <br>
- <a href="chat.xiaohuodui.cn/"><image src="./img/chat.png" width="32"> 积墨Chat - 您的私人AI助手</a> </p>
+ <a href="https://chat.xiaohuodui.cn/"><image src="./img/chat.png" width="32"> 积墨Chat - 您的私人AI助手</a> </p>
